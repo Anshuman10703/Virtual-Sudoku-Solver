@@ -26,5 +26,5 @@ To run this project on your local machine, follow these steps:
 
 **2. Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/Virtual-Sudoku-Solver.git](https://github.com/your-username/Virtual-Sudoku-Solver.git)
+   git clone [https://github.com/EhteshaA/Virtual-Sudoku-Solver.git](https://github.com/your-username/Virtual-Sudoku-Solver.git)
    cd Virtual-Sudoku-Solver
